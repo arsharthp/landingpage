@@ -1,2 +1,1 @@
-# landingpage
-AWS testing repository
+This is a GitHub repository!
